@@ -1,0 +1,175 @@
+/* NAV BAR */
+header{
+  border-width: medium;
+  border-color: white;
+  border-style: solid;
+  height: 4em;
+  margin: 1em;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+nav ul {
+  margin-top: 0;
+  padding-top: 1.3em;
+  padding-left: 0;
+  padding-right: 0;
+  list-style: none;
+  position: fixed;
+}
+
+nav li {
+  display: inline-block;
+  margin-left: 60px;
+  position: relative;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-family: marker felt;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #0198E1;
+}
+
+/* BODY */
+
+body{
+  background-image: url(../images/Eugenius6.jpg);
+  background-size: cover;
+  margin: 0;
+}
+
+/* BOOK TICKETS HERE - STAR */
+
+#book{
+  float: left;
+  width: 20%;
+  margin-left: 1%;
+  margin-top: -5%;
+  position: fixed;
+}
+
+.icon-bar{
+  float:left;
+  width: 95%;
+  margin-left: 83.5%;
+}
+
+#facebook{
+  width: 5%;
+}
+
+#instagram{
+  width: 5%;
+}
+
+#twitter{
+  width: 5%;
+}
+
+
+#logo{
+  display: block;
+  margin-left: 25%;
+  margin-right: auto;
+  margin-top: -2%;
+  width: 50%;
+  position: relative;
+}
+
+#slogan{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -1%;
+  width: 70%;
+}
+
+#promovideo{
+  float: left;
+  margin-top: 4%;
+  margin-right: auto;
+  margin-bottom: 0%;
+  margin-left: 5%;
+  padding: 2%;
+  width: 40%;
+  border-width: medium;
+  border-color: white;
+  border-style: solid;
+}
+
+#TOP {
+  float: left;
+  margin-top: 1%;
+  margin-bottom: 2%;
+  margin-left: 5%;
+  margin-right: 65%;
+  padding: 2%;
+  width: 40%;
+  border-width: medium;
+  border-color: white;
+  border-style: solid;
+  font-family: Railway;
+  font-weight: bold;
+  color: yellow;
+  font-size: 270%;
+
+}
+
+
+#welcome{
+  float: left;
+  margin-left: 2%;
+  margin-top: 4%;
+  padding: 2%;
+  width: 40%;
+  font-size: 140%;
+  font-family: Raleway;
+  font-weight: normal;
+  color: white;
+  border-width: medium;
+  border-color: white;
+  border-style: solid;
+}
+
+
+
+#CBKOL{
+  float: left;
+  margin-left: 2%;
+  margin-top: 1%;
+  margin-bottom: 3%;
+  padding: 2%;
+  width: 40%;
+  font-size: 140%;
+  font-family: Raleway;
+  font-weight: normal;
+  color: white;
+  border-width: medium;
+  border-color: white;
+  border-style: solid;
+}
+
+#reviews {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ margin-top: 5%;
+ margin-bottom: 5%;
+ padding: 2%;
+ width: 85.5%;
+ border-width: medium;
+ border-color: white;
+ border-style: solid;
+}
+
+footer {
+  clear: both;
+}
